@@ -10,6 +10,16 @@ body {
     color: #333;
     line-height: 1.6;
 }
+.logo{
+    height:75px;
+    width:auto;
+}
+
+header .container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
 
 header {
     background: #0b2d5c;
